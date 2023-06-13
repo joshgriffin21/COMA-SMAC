@@ -1,4 +1,8 @@
 # COMA-SMAC
-### Explorting Value Function Factorisation in COMA 
-<sub>Final Year Computer Science Project</sub>
-Uses codebase from https://github.com/oxwhirl/pymarl 
+## Explorting Value Function Factorisation in COMA 
+*Final Year Computer Science Project* <br /> 
+Uses codebase from https://github.com/oxwhirl/pymarl <br />
+
+# Results
+`matrix_game environment`
+
